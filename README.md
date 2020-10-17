@@ -7,4 +7,8 @@
 3) While sptSet doesn’t include all vertices
 ….a) Pick a vertex u which is not there in sptSet and has minimum distance value.
 ….b) Include u to sptSet.
-….c) Update distance value of a
+….c) Update distanc  for (int v = 0; v < V; v++)  
+        if (mstSet[v] == false && key[v] < min)  
+            min = key[v], min_index = v;  
+  
+    return min_index;  e value of a
