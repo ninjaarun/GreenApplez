@@ -19,7 +19,7 @@ int minKey(int key[], bool mstSet[])
   
     return min_index;  
 }  
-  
+https://github.com/ninjaarun/GreenApplez/blob/main/Algorithms%20Data%20Structures  
 // A utility function toas print the  
 // constructed MST stored in parent[]  
 void printMST(int parent[], int graph[V][V])  
