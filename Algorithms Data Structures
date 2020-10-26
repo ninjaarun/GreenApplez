@@ -6,7 +6,7 @@ using namespace std;
   ninjaarun
    Using the Hello World guide, you’ll start a branch, write comments, and open a pull request. 
 // A utility function to find the vertex with  
-// minimum key value, from the set ofasd vertices  
+// minimum key value, from the seasdt ofasd vertices  
 // not yet included in MST  
 int minKey(int key[], bool mstSet[])  
 {  
@@ -96,7 +96,7 @@ int main()
                         { 6, 8, 0, 0, 9 },  
                         { 0, 5, 7, 9, 0 } };  
   
-    // Print the solution  
+    // Print the solution  asd
     primMST(graph);  
   
     return 0;  
