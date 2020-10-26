@@ -6,7 +6,7 @@ using namespace std;
   ninjaarun
    Using the Hello World guide, you’ll start a branch, write comments, and open a pull request. 
 // A utility function to find the vertex with  
-// minimum key value, from the set of vertices  
+// minimum key value, from the set ofasd vertices  
 // not yet included in MST  
 int minKey(int key[], bool mstSet[])  
 {  
